@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages!
+# Отчет о лабораторных работах
+# студента группы ИДБ-18-06 Глущенко Дмитрия
 
-You can use the [editor on GitHub](https://github.com/allyxan/allyxan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files!
+Лабораторная 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Текст с постановкой задачи
 
-### Markdown
+Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ссылки на доп.материалы
 
-```markdown
-Syntax highlighted code block
+## Лабораторная 2
 
-# Header 1
-## Header 2
-### Header 3
+## Лабораторная 3
 
-- Bulleted
-- List
+## Лабораторная 4
 
-1. Numbered
-2. List
+## Лабораторная 5
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allyxan/allyxan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Лабораторная 6
