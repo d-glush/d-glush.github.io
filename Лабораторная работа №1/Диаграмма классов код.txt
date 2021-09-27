@@ -1,0 +1,32 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "CMS"
+actor M01 as "Программа"
+actor P as "Разработчик"
+actor P1 as "Заказчик"
+actor M as "WordPress"
+actor M1 as "Image Composite Editor"
+actor M2 as "Kolor Panotour Pro"
+usecase A as "Создать виртуальный музей"
+P -- (A)
+P1 -- (A)
+(A) -- M
+(A) -- M1
+(A) -- M2
+P0 <|-- P
+P0 <|-- P1
+M --|> M0
+M1 --|> M01
+M2 --|> M01
+@enduml
