@@ -79,7 +79,7 @@
 
 Работа с Cisco Packet Tracer
 
-* [Отчет](https://github.com/d-glush/d-glush.github.io/raw/main/ИТ_Глущенко _ЛР3.docx)
+* [Отчет](https://github.com/d-glush/d-glush.github.io/raw/main/ИТ_Глущенко_ЛР3.docx)
 * [Сценарий](https://github.com/d-glush/d-glush.github.io/raw/main/ИТ_ЛР3_Сценарий.pka)
 
 ## ✅ Экзаменационный билет №4
