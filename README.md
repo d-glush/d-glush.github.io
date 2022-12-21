@@ -82,6 +82,7 @@
 * [Отчет](https://github.com/d-glush/d-glush.github.io/raw/main/ИТ_Глущенко_ЛР3.docx)
 * [Сценарий](https://github.com/d-glush/d-glush.github.io/raw/main/ИТ_ЛР3_Сценарий.pka)
 
-## ✅ Экзаменационный билет №4
+## ✅ Экзаменационный билет №11
 
-Ответ на экзаменационный билет доступен по ссылке: [Билет №19](https://github.com/stankin/inet-2022/wiki/exam19)
+* Ответ на экзаменационный билет доступен по ссылке: [Билет №19](https://github.com/stankin/inet-2022/wiki/exam11)
+* Личный вклад к билету: [Сравнение ревизий](https://github.com/stankin/inet-2022/wiki/exam11/_compare/0dc4acc99a74b5e0c8c6ff43a12dd9bd9938d102...aa5a49aa7daa737d5184f5f4c0b9e3f93ff9cfb3)
